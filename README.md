@@ -1,6 +1,7 @@
 # 👋 Hi I'm Joy Kim
 
 <div align=center>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joyykim&?count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoyykim%2F)](https://hits.seeyoufarm.com)
