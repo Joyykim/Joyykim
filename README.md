@@ -10,6 +10,11 @@
 </div>
 
 ### 🎈 Interest
-- Server/Backend Programming (Java, Spring Framework, Python, Django)
-- TDD
+- Server/Backend Programming
+- OOP-Architecture
 - Clean Code
+- TDD
+
+### 🛠 Language, Framework
+- Java(Spring Framework)
+- Python(Django)
