@@ -1,4 +1,4 @@
-# 👋 Hi I'm Joy Kim
+# 👋 Hi, I'm Joy Kim!
 
 <div align=center>
 
