@@ -7,9 +7,9 @@
 [![Tech Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistory&link=https://joyykim.tistory.com/)](https://joyykim.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjw11077naver@gmail.com)](mailto:kjw11077naver@gmail.com)
 
+</div>
+
 ### 🎈 Interest
 - Server/Backend Programming (Java, Spring Framework, Python, Django)
 - TDD
 - Clean Code
-
-</div>
