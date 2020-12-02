@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joy Kim!
+# 👋  Hi, I'm Joy Kim!
 
 <div align=center>
 
@@ -9,12 +9,12 @@
 
 </div>
 
-### 🎈 Interest
+### 🎈  Interest
 - Server/Backend Programming
 - OOP-Architecture
 - Clean Code
 - TDD
 
-### 🛠 Language, Framework
+### 🛠  Language, Framework
 - Java(Spring Framework)
 - Python(Django)
