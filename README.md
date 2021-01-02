@@ -4,7 +4,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joyykim&?count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-blue?style=for-the-badge&logo=reason-studios&link=https://joyykim.tistory.com/)](https://joyykim.tistory.com/)
+[![Blog Badge](http://img.shields.io/badge/-Blog-blue?style=for-the-badge&logo=reason-studios&link=https://joyykim.tistory.com/)](https://joyykim.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjw11077naver@gmail.com)](mailto:kjw11077naver@gmail.com)
 
 </div>
