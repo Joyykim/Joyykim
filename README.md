@@ -11,9 +11,9 @@
 
 ### 🎈 Interest
 - Server/Backend Programming
-- OOP-Architecture
+- OOP
 - Clean Code
-- TDD
+- How to write `Good Test`
 
 ### 🛠 Language, Framework
 - Java(Spring Framework)
