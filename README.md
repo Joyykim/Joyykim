@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joy Kim!
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=300&section=header&text=Hi,%20I'm%20Joy%20Kim!&fontSize=90&fontColor=FFF)
 
 <div align=center>
 
