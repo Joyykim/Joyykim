@@ -9,8 +9,10 @@
 
 </div>
 
+### 👨‍💻 Profession
+- Backend Programmer
+
 ### ❗️ Interest
-- Server/Backend Programming
 - OOP
 - Clean Code
 - How to write `Good Test`
