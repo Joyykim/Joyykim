@@ -13,13 +13,15 @@
 - Web Backend Programmer
 
 ### ❗️ Interest
-- OOP
+- Object Oriented Programming
 - Clean Code
 - How to write `Good Test`
+- Agile
 
-### 🛠 Language, Framework
+### 🛠 Language & Framework
 - Java(Spring Framework)
 - Python(Django)
 
 ### 🏫 Education
-- 우아한테크코스 3기 백엔드 (2021.02 - )
+- 우아한테크코스 3기 백엔드 (2021.02 - 2021.10)
+- 패스트캠퍼스 파이썬 백엔드 스쿨 13기 (2020.04 - 2020.10)
