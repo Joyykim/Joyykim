@@ -10,7 +10,7 @@
 </div>
 
 ### 👨‍💻 Profession
-- Backend Programmer
+- Web Backend Programmer
 
 ### ❗️ Interest
 - OOP
