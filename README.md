@@ -19,8 +19,8 @@
 - Agile
 
 ### 🛠 Language & Framework
-- Java(Spring Framework)
-- Python(Django)
+- Java & Spring Framework
+- Python & Django
 
 ### 🏫 Education
 - 우아한테크코스 3기 백엔드 (2021.02 - 2021.10)
