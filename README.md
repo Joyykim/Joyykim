@@ -13,7 +13,7 @@
 - Web Backend Programmer
 
 ### ❗️ Interest
-- Object Oriented Programming
+- OOP
 - Clean Code
 - How to write `Good Test`
 - Agile
