@@ -14,7 +14,7 @@
 
 ### ❗️ Interest
 - OOP
-- Clean Code
+- Useful Code
 - How to write `Good Test`
 - Agile
 
