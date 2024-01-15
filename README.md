@@ -12,6 +12,10 @@
 ### 👨‍💻 Profession
 - Web Backend Programmer
 
+### 💭 Belive in
+- Growth Mindset
+- Apprenticeship Patterns  
+
 ### ❗️ Interest
 - How to build Reliable, Scalable, Maintainable system
 - How to write Good Test
