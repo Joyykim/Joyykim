@@ -14,7 +14,8 @@
 
 ### 💭 Belive in
 - Growth Mindset
-- Apprenticeship Patterns  
+- Apprenticeship Patterns
+- Practical Code over Theoretical Purity
 
 ### ❗️ Interest
 - How to build Reliable, Scalable, Maintainable system
